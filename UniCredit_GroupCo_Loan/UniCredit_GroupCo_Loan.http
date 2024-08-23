@@ -1,0 +1,6 @@
+@UniCredit_GroupCo_Loan_HostAddress = http://localhost:5006
+
+GET {{UniCredit_GroupCo_Loan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
